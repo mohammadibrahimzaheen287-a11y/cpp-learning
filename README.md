@@ -1,2 +1,8 @@
-# cpp-learning
-My C++ learning projects
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, GitHub!";
+    return 0;
+}
